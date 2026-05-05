@@ -16,3 +16,7 @@ Learning Git and GitHub for the first time!
 - Git & GitHub
 
 ## Updated from Github
+
+## Development Environment
+- Using Visual Studio Code for Git integration
+- VS Code provides a visual interface for Git operations
