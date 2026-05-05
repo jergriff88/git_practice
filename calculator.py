@@ -14,6 +14,11 @@ def square(a):
 def cube(a):
     """Return the cube of a number"""
     return a ** 3
+
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
+
 if __name__ == "__main__":
     print("Calculator loaded!")
     print(f"5 + 3 = {add(5, 3)}")
