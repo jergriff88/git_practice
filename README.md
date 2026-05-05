@@ -24,3 +24,7 @@ Learning Git and GitHub for the first time!
 ## Contributors
 - Jeremy Griffith
 - Alex Kanj
+
+ # Testing Branch Protection
+
+This change should be blocked by branch protection!
